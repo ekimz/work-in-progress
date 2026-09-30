@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Julia & Michael's Wedding//Wedding Save the Date//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:julia-michael-wedding-20270927@save-the-date
+DTSTAMP:20260929T000000Z
+DTSTART;VALUE=DATE:20270927
+DTEND;VALUE=DATE:20270928
+SUMMARY:Julia & Michael's Wedding 💍🎉💃
+LOCATION:Paliku Gardens
+GEO:21.52077;-157.83726
+DESCRIPTION:Paliku Gardens at Kualoa Ranch, Oʻahu, Hawaii\n\nFun fact: this place has been in a few movies! 🎬🦖\n\nSee you in Oʻahu~ 🌺\n– Julia & Michael
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-RADIUS=100;X-TITLE=Paliku Gardens:geo:21.52077,-157.83726
+END:VEVENT
+END:VCALENDAR
